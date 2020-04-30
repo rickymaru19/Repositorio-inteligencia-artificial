@@ -1,2 +1,2 @@
 # Repositorio-sistemas
-inamegenes relacionadas con sistemas 
+imagenes relacionadas con sistemas 
